@@ -1,4 +1,4 @@
-# gameforjb
+# vue
 
 ## Project setup
 ```
